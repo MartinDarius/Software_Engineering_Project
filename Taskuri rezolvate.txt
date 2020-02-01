@@ -1,0 +1,1 @@
+[Task{idTask=9, numeTask='Proiect SPG', dificultateTask='mediu', angajat=faga.ionela@gmail.com, rezolvat=true, deadline=2020-01-20 00:00:00.0}]
